@@ -1,1 +1,3 @@
-# gnosis-safe-nft-dashboard
+# GNOSIS SAFE NFT DASHBOARD
+
+https://dune.xyz/ivanmolto/GS
